@@ -31,7 +31,8 @@ int main(int argc, char *argv[]) {
 
     r = (r + aux) / 5.0;
 
-    // Print the result
+
+    
     printf("Resultado de la operacion: %f\n", r);
 
     return 0;
